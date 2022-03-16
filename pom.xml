@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.shiva</groupId>
-	<artifactId>spring-kafka</artifactId>
+	<artifactId>Spring-Boot-Apache-Kafka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-kafka</name>
-	<description>Learning of Spring Boot and Apache Kafka</description>
+	<name>Spring-Boot-Apache-Kafka</name>
+	<description>Spring Boot and Apache Kafka</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<testcontainers-kafka.version>1.16.2</testcontainers-kafka.version>
